@@ -11,7 +11,7 @@ Complete the information below regarding your group.
 ### Group members and zIDs
 - Member 1 (zID1) - Group leader
 - Member 2 (zID2) - role
-- Member 3 (z541010) - role
+- Member 3 (z5410100000) - role
 - Member 4 (zID4) - role
 
 ### Brief project description
